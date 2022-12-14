@@ -1,0 +1,95 @@
+{
+  "type": "program",
+  "body": [
+    {
+      "type": "assignment",
+      "var_name": {
+        "type": "identifier",
+        "value": "x",
+        "text": "x",
+        "offset": 0,
+        "lineBreaks": 0,
+        "line": 1,
+        "col": 1
+      },
+      "value": {
+        "type": "function_call",
+        "fun_name": {
+          "type": "identifier",
+          "value": "mul",
+          "text": "mul",
+          "offset": 4,
+          "lineBreaks": 0,
+          "line": 1,
+          "col": 5
+        },
+        "parameter": [
+          {
+            "type": "function_call",
+            "fun_name": {
+              "type": "identifier",
+              "value": "pluws",
+              "text": "pluws",
+              "offset": 8,
+              "lineBreaks": 0,
+              "line": 1,
+              "col": 9
+            },
+            "parameter": [
+              {
+                "type": "number",
+                "value": 4,
+                "text": "4",
+                "offset": 14,
+                "lineBreaks": 0,
+                "line": 1,
+                "col": 15
+              },
+              {
+                "type": "number",
+                "value": 5,
+                "text": "5",
+                "offset": 16,
+                "lineBreaks": 0,
+                "line": 1,
+                "col": 17
+              }
+            ]
+          },
+          {
+            "type": "number",
+            "value": 6,
+            "text": "6",
+            "offset": 19,
+            "lineBreaks": 0,
+            "line": 1,
+            "col": 20
+          }
+        ]
+      }
+    },
+    {
+      "type": "function_call",
+      "fun_name": {
+        "type": "identifier",
+        "value": "pwint",
+        "text": "pwint",
+        "offset": 22,
+        "lineBreaks": 0,
+        "line": 2,
+        "col": 1
+      },
+      "parameter": [
+        {
+          "type": "identifier",
+          "value": "x",
+          "text": "x",
+          "offset": 28,
+          "lineBreaks": 0,
+          "line": 2,
+          "col": 7
+        }
+      ]
+    }
+  ]
+}

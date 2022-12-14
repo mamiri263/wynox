@@ -1,7 +1,7 @@
 n = 4
-m = 4
+m = 5
 o = "Hello world!"
-print(n m)
-print(o)
-print(5)
-print("random string")
+pwint(n m)
+pwint(o)
+pwint(5)
+pwint("random string")

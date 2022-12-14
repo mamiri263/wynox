@@ -1,0 +1,2 @@
+x = mul(pluws(4 5) 6)
+pwint(x)
