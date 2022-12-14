@@ -1,7 +1,0 @@
-n = 4
-m = 5
-o = "Hello world!"
-pwint(n m)
-pwint(o)
-pwint(5)
-pwint("random string")

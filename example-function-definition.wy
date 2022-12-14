@@ -1,7 +1,0 @@
-myFun(a b c) open
-    m = pluws(a b)
-    n = mul(m c)
-    pwint(m n)
-close
-
-myFun(1 2 3)
